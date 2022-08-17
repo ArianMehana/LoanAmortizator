@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MonthlyInterest</string>
+    <string name="month">Month</string>
+    <string name="amount">Amount</string>
+    <string name="interest">Interest</string>
+    <string name="amount_left">Amount Left</string>
+    <string name="total_interest">Total Interest</string>
+    <string name="muaji">Muaji</string>
+    <string name="bilanci">Bilanci</string>
+    <string name="principali">Principali</string>
+    <string name="interesi">Interesi</string>
+    <string name="pagesa">Pagesa</string>
+    <string name="muajiPosition">Muaji</string>
+    <string name="pagesaPosition">Pagesa</string>
+    <string name="interesiPosition">Interesi</string>
+    <string name="principaliPosition">Principali</string>
+    <string name="bilanciPosition">Bilanci</string>
+</resources>
